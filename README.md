@@ -1,2 +1,2 @@
-# fxsi
-Forex Stats Informer - indicator for MetaTrader4
+# Forex Stats Informer
+Indicator for MetaTrader4
