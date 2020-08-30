@@ -3,6 +3,7 @@ Indicator for MetaTrader4 (MT4) which shows your trading statistics.
 
 ## Installation
 - Copy [StatsInformer.mq4](StatsInformer.mq4) file to `<METATRADER_DATA_DIR>\MQL4\Indicators` folder.
+- Update list of indicators on Navigator panel.
 - Drag `StatsInformer` indicator on a graph.
 
 ## Configuration
