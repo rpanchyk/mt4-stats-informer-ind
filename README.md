@@ -14,7 +14,7 @@ Available settings of indicator:
 ## Usage
 Check statistics at side view:
 
-![config](releases/1.3/StatsInformer_view.png)
+![config](releases/1.5/StatsInformer_view.png)
 
 ## History
 This indicator is based on [stat informer2.mq4](releases/1.0/stat&#32;informer2.mq4) initially developed by NeO since 2012.
