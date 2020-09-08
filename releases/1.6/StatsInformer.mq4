@@ -6,7 +6,7 @@
 #property copyright "Copyright 2020, GoNaMore"
 #property link "https://github.com/gonamore/fxsi"
 #property description "Indicator shows trading statistics"
-#property version "1.5"
+#property version "1.6"
 #property strict
 #property indicator_chart_window
 
