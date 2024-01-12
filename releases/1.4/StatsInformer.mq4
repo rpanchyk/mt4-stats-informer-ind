@@ -1,12 +1,12 @@
 //+------------------------------------------------------------------+
 //|                                                StatsInformer.mq4 |
-//|                                         Copyright 2020, GoNaMore |
+//|                                         Copyright 2020, rpanchyk |
 //|                Based on 'stat informer2.mq4' from NeO since 2012 |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2020, GoNaMore"
-#property link "https://github.com/gonamore/fxsi"
+#property copyright   "Copyright 2020, rpanchyk"
+#property link        "https://github.com/rpanchyk/mt4-stats-informer-ind"
 #property description "Indicator shows trading statistics"
-#property version "1.4"
+#property version     "1.4"
 #property strict
 #property indicator_chart_window
 
