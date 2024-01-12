@@ -1,5 +1,5 @@
-# Forex Stats Informer
-Indicator for MetaTrader4 (MT4) which shows your trading statistics.
+# Forex Stats Informer indicator for MT4
+Indicator for MetaTrader4 (MT4) which shows trading statistics.
 
 ## Installation
 - Copy [StatsInformer.mq4](StatsInformer.mq4) file to `<METATRADER_DATA_DIR>\MQL4\Indicators` folder.
